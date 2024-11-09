@@ -9,7 +9,7 @@ export default function Header() {
           
           <div  className="flex gap-12 text-3xl p-4 justify-between">
             
-          <Link className="cursor-pointer hover:text-zinc-300  " href="/">Home</Link>
+          <Link className="cursor-pointer hover:text-zinc-300 " href="/">Home</Link>
           <Link className="cursor-pointer hover:text-zinc-300" href="/skills">Skills</Link>
           <Link className="cursor-pointer hover:text-zinc-300" href="/about">About</Link>
           <Link className="cursor-pointer hover:text-zinc-300" href="/contact-us">Contact US</Link>
