@@ -1,11 +1,12 @@
 import { Button } from "@/components/ui/button";
+import Image from "next/image";
 
 export default function About() {
   return (
     <div className="bg-white-600 h-screen flex items-center p-8 font-sans">
       <div className="w-1/2 h-70 p-24 mt-14  ">
         {" "}
-        <img
+        <Image
           src="hero.png"
           alt="Main Page"
           className="w-[750px] h-auto rounded-full shadow-lg"

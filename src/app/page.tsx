@@ -1,5 +1,3 @@
-import Link from "next/link";
-import Header from "@/components/Layout/Header";
 import Hero from "@/components/Section/hero";
 
 
